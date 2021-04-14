@@ -17,7 +17,6 @@ Category - for users to choose what products to buy <br/>
 Review and ratings - to give feedback about our product and services
 
 
-
-To run this program:
-1. Extract file from zipped folder
+To run this program: <br/>
+1. Extract file from zipped folder <br/>
 2. Run module named as "main.py"
