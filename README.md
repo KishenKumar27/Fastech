@@ -12,8 +12,8 @@ Shopping Cart - Nurul Syaqeera Binti Ismail (1191101189) <br/>
 Customer Services - Harri Ganesh A/L G Chandra Bose (1191100277) <br/>
 Data Storing - Sharveena A/P Padmaraj (1191101614)
 
-Our additional module:
-Category - for users to choose what products to buy
+Our additional module: <br/>
+Category - for users to choose what products to buy <br/>
 Review and ratings - to give feedback about our product and services
 
 
