@@ -6,10 +6,10 @@ In this zipped folder, there are 3 modules:
 - customerServices.py
 - dataStoring.py
 
-Our primary module is :
-Payment Service - Kishen Kumar A/L Sivalingam (1191101423)
-Shopping Cart - Nurul Syaqeera Binti Ismail (1191101189)
-Customer Services - Harri Ganesh A/L G Chandra Bose (1191100277)
+Our primary module is : <br/>
+Payment Service - Kishen Kumar A/L Sivalingam (1191101423) <br/>
+Shopping Cart - Nurul Syaqeera Binti Ismail (1191101189) <br/>
+Customer Services - Harri Ganesh A/L G Chandra Bose (1191100277) <br/>
 Data Storing - Sharveena A/P Padmaraj (1191101614)
 
 Our additional module:
