@@ -1,11 +1,11 @@
-# Fastech Online Shopping
+# Fastech 
 
 **Fastech** is a project to develop an online shopping website.
 
 ## Project Structure
 
 ```bash
-Fastech-Online-Shopping/
+Fastech/
 │
 ├── Program/
 │   ├── main.py               # Main module to run the program
